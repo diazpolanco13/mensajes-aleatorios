@@ -14,7 +14,15 @@
   "author": "Carlos Diaz <diazpolanco13@gmail.com> (http://example.com/)",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diazpolanco13/mensajes-aleatorios.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diazpolanco13/mensajes-aleatorios/issues"
+  },
+  "homepage": "https://github.com/diazpolanco13/mensajes-aleatorios#readme"
 }
